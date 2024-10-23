@@ -4,7 +4,7 @@ For guidance on setting up and submitting this assignment, refer to the Marcy la
 
 ## Question 1
 
-Read the [findIndex documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex). When would you want to use `findIndex` instead of `indexOf`?
+Read the [findIndex documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex). When would you want to use `findIndex` instead of `indexOf`? Provide an example to enhance your response.
 
 ### Response 1
 
