@@ -2,16 +2,16 @@
 
 For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
 
-## Question 1
+## Prompt 1
 
-Read the [findIndex documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex). When would you want to use `findIndex` instead of `indexOf`? Provide an example to enhance your response.
+Read the [findIndex documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex). Explain the difference between `findIndex` and `indexOf`. Provide an example to enhance your response.
 
 ### Response 1
 
 Add your response here...
 
 
-## Question 2
+## Prompt 2
 
 The callback that you provide to `forEach`, `filter`, or `map` will be invoked with three values:
 1. `element` - The current element being processed in the array.
@@ -35,7 +35,7 @@ What is the purpose of these callback parameters? Fill in the code above with an
 Add your response here...
 
 
-## Question 3
+## Prompt 3
 
 According to our [style guide](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/cheatsheets/style-guide#iterators-and-generators) (adopted from AirBnb), it is recommended that you only use array higher-order functions like `forEach` instead of `for` loops.
 
@@ -46,9 +46,9 @@ What do you see as the benefit of doing this?
 Add your response here...
 
 
-## Question 4
+## Prompt 4
 
-Below is a regular expression. What kinds of strings does it identify? Explain each portion of it.
+Below is a regular expression that can be used to identify emails. Explain how it works!
 
 ```
 /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/
@@ -61,7 +61,7 @@ Tip: Visit https://regexr.com/ to learn Regex and to help understand regular exp
 Add your response here...
 
 
-## Question 5
+## Prompt 5
 Imagine you are teaching a brand new programmer a brief lesson about callback functions. Your lesson should have the following components:
 * An explanation of the concept with an analogy ("A callback function is a ... It is like a ...")
 * An example of the syntax for a higher order function that accepts a callback.
